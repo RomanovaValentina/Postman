@@ -20,7 +20,8 @@
 - писали тесты по проверке правильности результата
 перемножения на коэффициент с помощью     pm.expect(..).to.have.to.eql(..);
 - проверили, что один элемент массива больше или меньше другого с помощью (above и below)
-Ссылки на видео моих работ 
+
+# Ссылки на видео моих работ 
 
 [<img align="left" alt="RomanovaValentina | LinkedIn_1" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin1]
 [<img align="left" alt="RomanovaValentina | LinkedIn_2" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin2]
