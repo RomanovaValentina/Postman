@@ -1,2 +1,2 @@
 # Postman!
-![Braydon's GitHub Banner](https://user-images.githubusercontent.com/97470160/161739726-22d35e91-8c56-441a-9a3e-4424f7ab9308.png)
+![Braydon's GitHub Banner](![image](https://user-images.githubusercontent.com/97470160/161740068-3939368b-4f74-4a2d-a738-181620961835.png)
